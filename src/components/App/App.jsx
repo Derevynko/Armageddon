@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Route, Routes, useRouteError } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import app from "../../css/App.css";
 import Header from "../Header/Headers";
 import Main from "../Main/Main";
@@ -145,7 +145,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="/armageddon/main"
+          path="/"
           element={
             <>
               <Main
@@ -162,10 +162,7 @@ function App() {
             </>
           }
         />
-        <Route
-          path="/armageddon/main/:id"
-          element={<AsteroidPage data={currentAsteroid} />}
-        />
+        <Route path="/:id" element={<AsteroidPage data={currentAsteroid} />} />
       </Routes>
 
       {isLoader && (
