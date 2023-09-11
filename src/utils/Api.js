@@ -41,12 +41,10 @@ class Api {
 
 const api = new Api ({
   ApodUrl: 'https://api.nasa.gov/planetary/apod',
-  NeowsUrl: 'http://www.neowsapp.com/rest/v1/feed',
-  mode:'no-cors',
+  NeowsUrl: 'https://api.nasa.gov/neo/rest/v1/feed',
   headers: {
     'Content-Type': 'application/json'
   }, 
-  apiKey: 'r6G8CKnPzzOQbhFRHSaaa9WKHSJb3m6NF9wnJn4t'
+  apiKey: 'gob026OuqVTUZae8otdCcPdtg8ngfYHGjJhTIswR'
 });
-
 export default api;
