@@ -145,7 +145,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="https://derevynko.github.io/armageddon/"
+          path="/armageddon"
           element={
             <>
               <Main
@@ -163,7 +163,7 @@ function App() {
           }
         />
         <Route
-          path="https://derevynko.github.io/armageddon/:id"
+          path="/armageddon/:id"
           element={<AsteroidPage data={currentAsteroid} />}
         />
       </Routes>
