@@ -111,7 +111,10 @@ function Asteroids({
             alt="Астероид"
           />
           <div className="asteroid-information__name">
-            <a className="" href={`/${data?.id}`}>
+            <a
+              className=""
+              href={`https://derevynko.github.io/armageddon/${data?.id}`}
+            >
               {asteroidName}
             </a>
             <p className="diametr">
