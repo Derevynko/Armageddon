@@ -42,6 +42,7 @@ class Api {
 const api = new Api ({
   ApodUrl: 'https://api.nasa.gov/planetary/apod',
   NeowsUrl: 'http://www.neowsapp.com/rest/v1/feed',
+  mode:'no-cors',
   headers: {
     'Content-Type': 'application/json'
   }, 
