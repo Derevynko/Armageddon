@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Armaggedon/static/css/main.78aa05ce.css",
+    "main.js": "/Armaggedon/static/js/main.45fdb77e.js",
+    "static/media/ArialMT.woff2": "/Armaggedon/static/media/ArialMT.2f06d009f5f28857ce09.woff2",
+    "static/media/planet.svg": "/Armaggedon/static/media/planet.5f93d8a0cb6bbef9c1bb188fffbc6461.svg",
+    "static/media/helvetica_bold.otf": "/Armaggedon/static/media/helvetica_bold.899889c95eb3c6b47ce3.otf",
+    "static/media/helvetica_regular.otf": "/Armaggedon/static/media/helvetica_regular.da7db66db5a8e54a8308.otf",
+    "static/media/asteroid.svg": "/Armaggedon/static/media/asteroid.d0cb4494251869304fc9ccd7f681b4ee.svg",
+    "static/media/helvetica_light.otf": "/Armaggedon/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
+    "static/media/PassionOne-Bold.ttf": "/Armaggedon/static/media/PassionOne-Bold.6cbab5ccd7e564c52036.ttf",
+    "index.html": "/Armaggedon/index.html",
+    "static/media/Arrow.svg": "/Armaggedon/static/media/Arrow.83d6aff73f04efeed777e3a47f4b0009.svg",
+    "static/media/Close-Icon.svg": "/Armaggedon/static/media/Close-Icon.2ceb783afbab75916ddc.svg",
+    "main.78aa05ce.css.map": "/Armaggedon/static/css/main.78aa05ce.css.map",
+    "main.45fdb77e.js.map": "/Armaggedon/static/js/main.45fdb77e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78aa05ce.css",
+    "static/js/main.45fdb77e.js"
+  ]
+}
