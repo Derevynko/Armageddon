@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Armageddon/static/css/main.b157eaf0.css",
-    "main.js": "/Armageddon/static/js/main.a4684004.js",
-    "static/media/ArialMT.woff2": "/Armageddon/static/media/ArialMT.2f06d009f5f28857ce09.woff2",
-    "static/media/planet.svg": "/Armageddon/static/media/planet.5f93d8a0cb6bbef9c1bb188fffbc6461.svg",
-    "static/media/helvetica_bold.otf": "/Armageddon/static/media/helvetica_bold.899889c95eb3c6b47ce3.otf",
-    "static/media/helvetica_regular.otf": "/Armageddon/static/media/helvetica_regular.da7db66db5a8e54a8308.otf",
-    "static/media/asteroid.svg": "/Armageddon/static/media/asteroid.d0cb4494251869304fc9ccd7f681b4ee.svg",
-    "static/media/helvetica_light.otf": "/Armageddon/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
-    "static/media/PassionOne-Bold.ttf": "/Armageddon/static/media/PassionOne-Bold.6cbab5ccd7e564c52036.ttf",
-    "index.html": "/Armageddon/index.html",
-    "static/media/Arrow.svg": "/Armageddon/static/media/Arrow.83d6aff73f04efeed777e3a47f4b0009.svg",
-    "static/media/Close-Icon.svg": "/Armageddon/static/media/Close-Icon.2ceb783afbab75916ddc.svg",
-    "main.b157eaf0.css.map": "/Armageddon/static/css/main.b157eaf0.css.map",
-    "main.a4684004.js.map": "/Armageddon/static/js/main.a4684004.js.map"
+    "main.css": "/armageddon/static/css/main.4ba9c558.css",
+    "main.js": "/armageddon/static/js/main.369b07f6.js",
+    "static/media/ArialMT.woff2": "/armageddon/static/media/ArialMT.2f06d009f5f28857ce09.woff2",
+    "static/media/planet.svg": "/armageddon/static/media/planet.5f93d8a0cb6bbef9c1bb188fffbc6461.svg",
+    "static/media/helvetica_bold.otf": "/armageddon/static/media/helvetica_bold.899889c95eb3c6b47ce3.otf",
+    "static/media/helvetica_regular.otf": "/armageddon/static/media/helvetica_regular.da7db66db5a8e54a8308.otf",
+    "static/media/asteroid.svg": "/armageddon/static/media/asteroid.d0cb4494251869304fc9ccd7f681b4ee.svg",
+    "static/media/helvetica_light.otf": "/armageddon/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
+    "static/media/PassionOne-Bold.ttf": "/armageddon/static/media/PassionOne-Bold.6cbab5ccd7e564c52036.ttf",
+    "index.html": "/armageddon/index.html",
+    "static/media/Arrow.svg": "/armageddon/static/media/Arrow.83d6aff73f04efeed777e3a47f4b0009.svg",
+    "static/media/Close-Icon.svg": "/armageddon/static/media/Close-Icon.2ceb783afbab75916ddc.svg",
+    "main.4ba9c558.css.map": "/armageddon/static/css/main.4ba9c558.css.map",
+    "main.369b07f6.js.map": "/armageddon/static/js/main.369b07f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b157eaf0.css",
-    "static/js/main.a4684004.js"
+    "static/css/main.4ba9c558.css",
+    "static/js/main.369b07f6.js"
   ]
 }
