@@ -111,12 +111,11 @@ function Asteroids({
             alt="Астероид"
           />
           <div className="asteroid-information__name">
-            <a
-              className=""
-              href={`https://derevynko.github.io/armageddon/${data?.id}`}
-            >
-              {asteroidName}
-            </a>
+            {data && (
+              <a href={`https://derevynko.github.io/armageddon/${data.id}`}>
+                {asteroidName}
+              </a>
+            )}
             <p className="diametr">
               &#8709;{" "}
               {`${Math.floor(

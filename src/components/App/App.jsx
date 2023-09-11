@@ -145,7 +145,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="https://derevynko.github.io/armageddon"
+          path="https://derevynko.github.io/armageddon/"
           element={
             <>
               <Main
