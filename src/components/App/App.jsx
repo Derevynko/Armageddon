@@ -145,7 +145,7 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path="/"
+          path="/armageddon"
           element={
             <>
               <Main
@@ -162,7 +162,10 @@ function App() {
             </>
           }
         />
-        <Route path="/:id" element={<AsteroidPage data={currentAsteroid} />} />
+        <Route
+          path="/armageddon/:id"
+          element={<AsteroidPage data={currentAsteroid} />}
+        />
       </Routes>
 
       {isLoader && (
