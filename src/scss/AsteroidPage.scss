@@ -1,0 +1,19 @@
+.asteroid-page {
+  display: flex;
+  flex-direction: column;
+  margin-left: 48px;
+  color: white;
+  list-style-type: none;
+}
+.list-of-rapprochement {
+  margin-top: 24px;
+}
+@media (max-width: 365px) {
+  .list-of-rapprochement {
+    word-wrap: break-word;
+    max-width: 365px;
+  }
+  .p {
+    white-space: normal;
+  }
+}

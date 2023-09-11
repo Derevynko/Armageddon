@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica";
+}
+
+.app {
+  max-width: 1025px;
+  background-color: black;
+  color: white;
+  min-width: 320px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  font-family: "Helvetica", sans-serif;
+}
+
+.main {
+  display: flex;
+  width: 402px;
+  background-color: black;
+  color: white;
+}
+
+h2 {
+  margin: 0px;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+/*# sourceMappingURL=App.css.map */

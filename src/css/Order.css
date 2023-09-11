@@ -1,0 +1,12 @@
+.order {
+  display: flex;
+  gap: 24px;
+}
+
+.order-list {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/*# sourceMappingURL=Order.css.map */

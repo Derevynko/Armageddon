@@ -1,0 +1,79 @@
+.asteroid-information {
+  display: flex !important;
+  width: 197px;
+  flex-direction: row;
+}
+.asteroid-information__distance {
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+}
+.asteroid-information__distance_arrow {
+  width: 100%;
+}
+.asteroid-information__name {
+  display: block;
+  white-space: nowrap;
+}
+a {
+  color: white;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+.diametr {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
+.big {
+  height: 40px;
+  width: 36.67px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.small {
+  margin-top: 8px;
+  height: 24px;
+  margin-left: 8px;
+  margin-right: 8px;
+  width: 22px;
+}
+.asteroid-list-container {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.asteroid-information__dangerous {
+  display: flex;
+}
+.no-ordered {
+  color: rgba(248, 102, 0, 1);
+}
+.potentially {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin-left: 10px;
+}
+.order__button {
+  background-color: rgba(248, 102, 0, 0.15);
+  border-radius: 16px;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  text-decoration: none;
+  height: 24px;
+  padding: 2px 11px 2px 11px;
+}
+.order__button:hover {
+  background-color: rgba(248, 102, 0, 1);
+  color: white;
+}

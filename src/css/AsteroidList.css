@@ -1,0 +1,14 @@
+.asteroids {
+  margin-top: 0px;
+  width: 402px;
+}
+
+.list {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/*# sourceMappingURL=AsteroidList.css.map */

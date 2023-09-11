@@ -1,0 +1,32 @@
+header {
+  background-color: black;
+  height: 123px;
+}
+
+h1 {
+  font-family: "PassionOne";
+  margin: 0px auto 8px 16px;
+  padding-top: 16px;
+  font-weight: 700;
+  color: rgb(248, 102, 0);
+}
+
+p {
+  white-space: nowrap;
+  color: white;
+  margin: 0px;
+}
+
+.header-description {
+  margin: 0px auto 16px 16px;
+  font-family: "Arial";
+  line-height: 24px;
+}
+
+@media (max-width: 365px) {
+  p {
+    white-space: normal;
+  }
+}
+
+/*# sourceMappingURL=Header.css.map */
